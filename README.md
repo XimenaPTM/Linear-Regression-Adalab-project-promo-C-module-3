@@ -28,7 +28,7 @@ Integrantes
 - sklearn /.processing /.model_selection /.ensemble /.metrics /.tree
 
 # Integrantes
-👩 Ximena
+👩 [Ximena](https://github.com/XimenaPTM)
 👩 Pilar
 👩 Marta
 👩 Gadea

@@ -32,4 +32,3 @@ Integrantes
 👩 Pilar
 👩 Marta
 👩 Gadea
-👩 Ana
